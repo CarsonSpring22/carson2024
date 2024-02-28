@@ -2,14 +2,7 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "tileset_1",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
-  "spriteId": {
-    "name": "spr_tileset",
-    "path": "sprites/spr_tileset/spr_tileset.yy",
-  },
+  "spriteId": null,
   "tileWidth": 128,
   "tileHeight": 128,
   "tilexoff": 0,
@@ -17,6 +10,10 @@
   "tilehsep": 0,
   "tilevsep": 0,
   "spriteNoExport": false,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 3,
