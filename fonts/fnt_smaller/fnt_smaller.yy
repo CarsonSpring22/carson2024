@@ -2,10 +2,6 @@
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
   "name": "fnt_smaller",
-  "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
-  },
   "hinting": 0,
   "glyphOperations": 0,
   "interpreter": 0,
@@ -23,6 +19,10 @@
   "sampleText": null,
   "includeTTF": false,
   "TTFName": "",
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
   "ascenderOffset": 0,
   "ascender": 0,
   "glyphs": {
