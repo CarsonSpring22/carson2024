@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "fnt_score",
+  "name": "fnt_game",
   "hinting": 0,
   "glyphOperations": 0,
   "interpreter": 0,
